@@ -1,0 +1,20 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/js/pdfmake.js": "/js/pdfmake.js",
+    "/js/canvg.js": "/js/canvg.js",
+    "/js/xlsx.js": "/js/xlsx.js",
+    "/css/app.css": "/css/app.css",
+    "/css/main.css": "/css/main.css",
+    "/js/widgets.js": "/js/widgets.js",
+    "/js/bundles/libscripts.bundle.js": "/js/bundles/libscripts.bundle.js",
+    "/js/bundles/vendorscripts.bundle.js": "/js/bundles/vendorscripts.bundle.js",
+    "/js/bundles/mainscripts.bundle.js": "/js/bundles/mainscripts.bundle.js",
+    "/js/bundles/chartist.bundle.js": "/js/bundles/chartist.bundle.js",
+    "/js/bundles/knob.bundle.js": "/js/bundles/knob.bundle.js",
+    "/js/bundles/c3.bundle.js": "/js/bundles/c3.bundle.js",
+    "/css/vivify.min.css": "/css/vivify.min.css",
+    "/css/vendor/c3.min.css": "/css/vendor/c3.min.css",
+    "/css/vendor/chartist.min.css": "/css/vendor/chartist.min.css",
+    "/css/vendor/chartist-plugin-tooltip.css": "/css/vendor/chartist-plugin-tooltip.css",
+    "/css/vendor/bootstrap-progressbar-3.3.4.min.css": "/css/vendor/bootstrap-progressbar-3.3.4.min.css"
+}
